@@ -3,3 +3,10 @@ site_name: 个人网站 # 左上角标题
 site_url: https://huang-jiahong1024.github.io/
 site_author: 家鸿
 site_description: 家鸿的个人网站
+
+# [Navigtion]
+nav:
+    - Home: index.md
+    - About: about.md
+
+theme: readthedocs
