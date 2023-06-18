@@ -1,28 +1,23 @@
 # [Info]
-site_name: 开荒 # 左上角标题
+site_name: wongkahome - 个人网站 # 左上角标题
 site_url: https://wongkahome.github.io/
 site_author: wongkahome
 site_description: wongkahome的个人网站
 
 # [Navigtion]
 nav:
-  - 博客: 
-    - BLOG/index.md
+  - 博客:
+      - BLOG/index.md
   - 开发:
-    - DEV/index.md
-  - 随笔: 
-    - ESSAY/index.md
+      - DEV/index.md
+  - 随笔:
+      - ESSAY/index.md
   - 转载:
-    - REPRODUCE/index.md
+      - REPRODUCE/index.md
   - 我的:
-    - ME/index.md
+      - ME/index.md
   - 网站:
-    - WEBSITE/index.md
-
-
-
-
-
+      - WEBSITE/index.md
 
 # [UI]
 ## [top]
@@ -62,9 +57,9 @@ repo_name: wongkahome.github.io # 右上角的名字
 ## [bottom-right corner]
 extra:
   social: # icons
-    - icon: fontawesome/brands/bilibili
-      link: https://space.bilibili.com/24502827
-      # name: Bilibili | wongkahome # 鼠标悬浮提示
+    # - icon: fontawesome/brands/bilibili
+    #   link: https://space.bilibili.com/<uid>
+      # name: Bilibili | <username> # 鼠标悬浮提示
     - icon: fontawesome/brands/github
       link: https://github.com/wongkahome
       name: GitHub | wongkahome
@@ -72,7 +67,7 @@ extra:
 # [Extensions]
 plugins:
   - search: # 现在还不支持中文搜索 支持之后可以设置语言
-    # insider已经支持中文的分词搜索了 https://squidfunk.github.io/mkdocs-material/blog/2022/chinese-search-support/
+      # insider已经支持中文的分词搜索了 https://squidfunk.github.io/mkdocs-material/blog/2022/chinese-search-support/
       lang:
         - en
         - ja
@@ -83,7 +78,7 @@ markdown_extensions:
   - attr_list # 给图片后面添加{width="300"}设置大小
   - toc:
       permalink: true # 固定标题位置为当前位置
-  - pymdownx.highlight: # 代码块高亮
+  - pymdownx.highlight:# 代码块高亮
       # linenums: true # 显示行号
       # auto_title: true # 显示编程语言名称
   - pymdownx.superfences # 代码块高亮插件
