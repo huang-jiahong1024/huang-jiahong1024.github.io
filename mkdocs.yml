@@ -1,13 +1,28 @@
 # [Info]
-site_name: 荒 # 左上角标题
+site_name: 开荒 # 左上角标题
 site_url: https://wongkahome.github.io/
 site_author: wongkahome
-site_description: 家鸿的个人网站
+site_description: wongkahome的个人网站
 
 # [Navigtion]
-# nav:
-#     - Home: index.md
-#     - About: about.md
+nav:
+  - 博客: 
+    - BLOG/index.md
+  - 开发:
+    - DEV/index.md
+  - 随笔: 
+    - ESSAY/index.md
+  - 转载:
+    - REPRODUCE/index.md
+  - 我的:
+    - ME/index.md
+  - 网站:
+    - WEBSITE/index.md
+
+
+
+
+
 
 # [UI]
 ## [top]
