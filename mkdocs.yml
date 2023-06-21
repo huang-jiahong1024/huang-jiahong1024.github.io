@@ -60,7 +60,7 @@ edit_uri: edit/main/docs # 编辑按钮跳转的链接
 repo_url: https://github.com/wongkahome/wongkahome.github.io # 右上角点击跳转的链接
 repo_name: wongkahome.github.io # 右上角的名字
 ## [bottom-left corner]
-# copyright: wongkahome CC-BY-4.0 # 左下角的版权声明
+copyright: wongkahome CC-BY-4.0 # 左下角的版权声明
 ## [bottom-right corner]
 extra:
   social: # icons
