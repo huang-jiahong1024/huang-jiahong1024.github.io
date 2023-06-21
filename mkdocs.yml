@@ -13,8 +13,8 @@ nav:
   - 随笔:
       - ESSAY/index.md
       - 阅读:
-      - ESSAY/Reading/NingenShikkaku.md
-      - ESSAY/Reading/Kokoro.md
+        - ESSAY/Reading/NingenShikkaku.md
+        - ESSAY/Reading/Kokoro.md
   - 转载:
       - REPRODUCE/index.md
   - 我的:
