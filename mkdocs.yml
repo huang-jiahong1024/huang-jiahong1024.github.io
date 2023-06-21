@@ -13,14 +13,14 @@ nav:
   - 随笔:
       - ESSAY/index.md
       - 阅读:
-      - ESSAY/Reading/《人间失格》.md
-      - ESSAY/Reading/《心》.md
+      - ESSAY/Reading/NingenShikkaku.md
+      - ESSAY/Reading/Kokoro.md
   - 转载:
       - REPRODUCE/index.md
   - 我的:
       - ME/index.md
-      - ME/补番.md
-      - ME/网站.md
+      - ME/web.md
+      - ME/anime.md
   - 网站:
       - WEBSITE/index.md
       - WEBSITE/build.md
