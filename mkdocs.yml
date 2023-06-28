@@ -87,6 +87,7 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
+  - tables
   - toc:
       permalink: true # 固定标题位置为当前位置
   - pymdownx.highlight: # 代码块高亮

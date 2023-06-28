@@ -4,7 +4,7 @@
 
 
 
-# 基本 Git命令
+## 基本 Git命令
 
 ```git
 git init
