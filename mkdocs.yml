@@ -8,6 +8,8 @@ site_description: wongkahome的个人网站
 nav:
   - 博客:
       - BLOG/index.md
+      - 机器学习:
+        - BLOG/Deeplearning/d2l.md
       - BLOG/Git.md
   - 开发:
       - DEV/index.md
