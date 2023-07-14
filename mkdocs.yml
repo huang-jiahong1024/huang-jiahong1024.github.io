@@ -10,6 +10,9 @@ nav:
       - BLOG/index.md
       - 机器学习:
         - BLOG/Deeplearning/d2l.md
+      - 见猎心喜:
+        - BLOG/LetMeTry/candyForMad.md
+        - BLOG/LetMeTry/paintingByCharacter.md
       - BLOG/Git.md
   - 开发:
       - DEV/index.md
