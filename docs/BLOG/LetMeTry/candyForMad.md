@@ -95,9 +95,9 @@ cv.destroyWindow(winname='pv')
 **合并音视频**（已配置过环境变量）
 
 ```python
-# 视频的绝对路径
+# 视频的相对路径
 video= "./frame/out.mp4v"
-# 拼接 音频的绝对路径
+# 拼接 音频的相对路径
 music = "./data/"+ video_name +".m4a"
 # 合并后视频的绝对路径
 out = "E:/Desktop/out.mp4"
