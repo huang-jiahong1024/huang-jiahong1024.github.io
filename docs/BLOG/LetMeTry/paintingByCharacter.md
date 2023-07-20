@@ -659,3 +659,4 @@ if __name__ == "__main__":
 -  [standard luminance measure for RGB](http://en.wikipedia.org/wiki/Luminance_(relative)) 
 -  [字符画——从入门到不屑](https://zhuanlan.zhihu.com/p/48941293?utm_id=0) 讲得挺不错，有兴趣可以看看
 -  [Python 函数 sort()，sorted() 之区别及 key=lambda x:x[] 之理解](https://blog.csdn.net/iprobobo/article/details/122713695)
+-  [Haoyu Qiu](https://gist.github.com/timothyqiu/5070450) 使用cpp实现的，效果太好了，赞赞赞！
